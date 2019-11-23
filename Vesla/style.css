@@ -1,0 +1,91 @@
+body {
+    background-color: #9494b8;
+
+    color: #8C2F39 ;
+
+    font-family: Courier
+    background: white;
+    padding: 60px;
+    margin: 70px;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+    color: black;
+    border-radius: 4px;
+ }
+
+
+h1 {
+   color: #660033;
+   font-family: 'Wallpoet', cursive;
+   font-weight: 1000;
+   letter-spacing: 5px;
+   font-size: 32px;
+   text-align: center;
+
+
+    
+
+}
+
+a{
+	font-weight: 500;
+	font-size: 20;
+    font-weight: bold;
+
+}
+a:hover {
+
+	color: black;
+	
+}
+
+
+
+
+h2 {
+  font-family: 'Baloo Bhai', cursive;
+  color: #660033;
+
+ }
+
+h3 {
+    font-family: 'Hind Vadodara', sans-serif;
+    color: #660033
+ }
+
+i {
+	font-size:40px;
+	color:#0000cc
+;
+}
+
+#photo {
+	border-radius: 40%
+}
+
+
+.picture {
+
+		box-shadow: 5px 5px 3px #E84855
+    font-size: 200px;
+
+     
+
+}
+
+img {
+
+  display:block;
+width:auto;
+margin-left:auto;
+margin-right:auto;
+}
+
+.ok {
+    color: #660033; }
+
+
+.far fa-credit-card { 
+    font-size: 20px;
+ }
+
+
